@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Batch files
+set_env_vars.bat
+pyinstall.bat
+
 # C extensions
 *.so
 
@@ -169,3 +173,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.vscode/launch.json
+ - Copy.gitignore
